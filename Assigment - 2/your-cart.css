@@ -1,0 +1,938 @@
+.crockefire2,
+.home1 {
+  position: relative;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.crockefire2 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.home1 {
+  width: 323px;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.estimated-ship-date {
+  height: 86px;
+  width: 236px;
+  position: relative;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-black);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+  margin-left: -287px;
+}
+.t-shirt-component,
+.tom-and-jerry-thinking-tom {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.tom-and-jerry-thinking-tom {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+}
+.t-shirt-component {
+  width: 323px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-smi);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-26xl);
+  color: var(--color-royalblue-200);
+}
+.price-total-frame {
+  width: 1289px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.coupon-code-frame,
+.item-frame {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.item-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-18xl);
+  text-align: left;
+  font-size: var(--font-size-36xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.coupon-code-frame {
+  height: 5px;
+  flex: 1;
+  position: relative;
+  border-top: 5px solid var(--color-black);
+}
+.subtotal-convenience-fee-frame {
+  align-self: stretch;
+  height: 17px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-mid);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.your-cart1 {
+  height: 75px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+}
+.free-shipping-message {
+  width: 293px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+}
+.item,
+.price,
+.quantity {
+  position: relative;
+}
+.group-estimated-ship-date {
+  width: 233px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.total {
+  position: relative;
+}
+.coupon-code-frame1,
+.frame-subtotal {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.coupon-code-frame1 {
+  justify-content: flex-start;
+  gap: 0 114px;
+}
+.frame-subtotal {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-17xl);
+}
+.add-coupon-button,
+.grand-total-frame {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.grand-total-frame {
+  width: 1353px;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: 19px 0;
+}
+.add-coupon-button {
+  width: 1397px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 46px var(--padding-xl);
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-overpass);
+}
+.st-t-shirt-3 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 23px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frame-container1 {
+  height: 237px;
+  width: 219px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+}
+.tom-and-jerry2 {
+  height: 61px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.t-shirt1 {
+  position: absolute;
+  margin: 0 !important;
+  bottom: -27px;
+  left: 0;
+  font-size: var(--font-size-13xl);
+  font-weight: 300;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+  z-index: 1;
+}
+.frame-container3,
+.tom-and-jerry1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.tom-and-jerry1 {
+  flex: 1;
+  position: relative;
+}
+.frame-container3 {
+  align-self: stretch;
+  padding: 0 var(--padding-4xs) 0 var(--padding-7xs);
+  box-sizing: border-box;
+}
+.line-separator-child,
+.line-separator-item {
+  width: 31.1px;
+  height: 1px;
+  position: absolute;
+  margin: 0 !important;
+  left: 0;
+  z-index: 1;
+}
+.line-separator-child {
+  top: 2px;
+}
+.line-separator-item {
+  bottom: -0.5px;
+}
+.shipping-info {
+  height: 40px;
+  width: 1px;
+  position: relative;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 2;
+}
+.estimated-ship-date1 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  max-width: 100%;
+}
+.vector-line-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 31.1px;
+  height: 1px;
+  z-index: 1;
+}
+.vector-line-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.vector-line {
+  height: 40px;
+  width: 31px;
+  position: relative;
+  margin-left: -26px;
+}
+.estimated-ship-date-label,
+.group-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.estimated-ship-date-label {
+  flex: 1;
+  min-width: 285px;
+  row-gap: 20px;
+}
+.group-frame {
+  align-self: stretch;
+  gap: 0 8px;
+}
+.item-name,
+.line-separator1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 100%;
+}
+.line-separator1 {
+  align-self: stretch;
+  justify-content: center;
+  position: relative;
+  font-size: var(--font-size-9xl);
+  color: #cf4a4a;
+  font-family: var(--font-poppins);
+}
+.item-name {
+  flex: 1;
+  justify-content: flex-start;
+  gap: 33px 0;
+}
+.b {
+  position: relative;
+  white-space: nowrap;
+}
+.frame-currency-symbol {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}
+.cart-item-label,
+.frame-container2 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.cart-item-label {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  gap: 0 52px;
+}
+.frame-container2 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-sm) 0 0;
+  box-sizing: border-box;
+  min-width: 377px;
+}
+.subtotal-frame-child {
+  align-self: stretch;
+  width: 273px;
+  position: relative;
+  border-radius: var(--br-56xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+  z-index: 0;
+}
+.convenience-fee-frame,
+.frame-june {
+  height: 5px;
+  border-top: 5px solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.convenience-fee-frame {
+  width: 50px;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 0px);
+  right: 17px;
+}
+.frame-june {
+  width: 40px;
+  position: relative;
+}
+.frame-item1,
+.frame-total {
+  height: 80px;
+  box-sizing: border-box;
+}
+.frame-total {
+  width: 3px;
+  position: relative;
+  border-right: 3px solid var(--color-black);
+  z-index: 1;
+}
+.frame-item1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xl) 0 0;
+}
+.coupon-input {
+  position: relative;
+  z-index: 1;
+}
+.frame-frame,
+.line-line {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-frame {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-7xs) 0 0;
+}
+.line-line {
+  flex: 1;
+  flex-direction: row;
+  align-items: center;
+  gap: 0 16px;
+}
+.grand-total-label,
+.subtotal-label {
+  height: 80px;
+  width: 3px;
+  position: relative;
+  border-right: 3px solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.grand-total-label {
+  height: 40px;
+  width: 5px;
+  border-right: 5px solid var(--color-black);
+  z-index: 2;
+}
+.add-button,
+.subtotal-frame1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.add-button {
+  height: 80px;
+  width: 40px;
+  align-items: center;
+  gap: 0 40px;
+}
+.subtotal-frame1 {
+  width: 273px;
+  border-radius: var(--br-56xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  align-items: flex-start;
+  padding: 0 var(--padding-22xl) var(--padding-12xs) var(--padding-10xl);
+  position: relative;
+  gap: 0 51px;
+}
+.b1 {
+  position: relative;
+  white-space: nowrap;
+}
+.shipping-truck {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-inter);
+}
+.frame-empty,
+.frame-line {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.frame-line {
+  flex: 1;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-empty {
+  width: 490px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+}
+.subtotal {
+  position: relative;
+  font-weight: 500;
+}
+.subtotal-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.div2 {
+  position: relative;
+  font-weight: 300;
+  font-family: var(--font-inter);
+  color: var(--color-gray-100);
+  white-space: nowrap;
+}
+.frame-parent2 {
+  width: 553px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.convenience-fee {
+  position: relative;
+  font-weight: 500;
+}
+.convenience-fee-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.div3 {
+  position: relative;
+  font-weight: 300;
+  font-family: var(--font-inter);
+  color: var(--color-gray-100);
+  white-space: nowrap;
+}
+.frame-parent3 {
+  width: 556px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.add-coupon,
+.coupon-code {
+  position: relative;
+  font-weight: 500;
+}
+.add-coupon {
+  font-weight: 300;
+}
+.coupon-input-group2 {
+  height: 1px;
+  flex: 1;
+  position: relative;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 1;
+  margin-left: -116px;
+}
+.coupon-input-group1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.coupon-input-group {
+  width: 121px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-7xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}
+.subtotal-frame2 {
+  width: 553px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.grand-total {
+  position: relative;
+  font-weight: 500;
+}
+.free-shipping-message1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.div4 {
+  width: 188px;
+  position: relative;
+  font-weight: 300;
+  font-family: var(--font-inter);
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.total-amount-label {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.congrats-youre-eligible {
+  font-weight: 500;
+}
+.congrats-youre-eligible-for,
+.shipping {
+  margin: 0;
+}
+.congrats-youre-eligible-container,
+.truck-1-icon {
+  position: relative;
+}
+.truck-1-icon {
+  height: 58px;
+  width: 58px;
+  object-fit: cover;
+}
+.shipping-info-frame,
+.truck-icon {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.truck-icon {
+  align-items: flex-end;
+  gap: 0 32px;
+}
+.shipping-info-frame {
+  align-items: flex-start;
+  padding: 0 var(--padding-28xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+}
+.frame-parent1,
+.grand-total-frame1 {
+  align-self: stretch;
+  flex-direction: column;
+}
+.grand-total-frame1 {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 30px 0;
+  max-width: 100%;
+}
+.frame-parent1 {
+  align-items: flex-start;
+  gap: 56px 0;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-overpass);
+}
+.cart-thumbnail,
+.frame-cart,
+.frame-parent1,
+.price-frame {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-cart {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  gap: 183px 0;
+}
+.cart-thumbnail,
+.price-frame {
+  align-items: flex-start;
+}
+.price-frame {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-24xl) 0 0;
+  box-sizing: border-box;
+  min-width: 377px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-preahvihear);
+}
+.cart-thumbnail {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 0 12px;
+}
+.check-out-label-child {
+  height: 79px;
+  width: 413px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-black);
+  display: none;
+  max-width: 100%;
+}
+.check-out {
+  position: relative;
+  font-size: var(--font-size-21xl);
+  font-weight: 800;
+  font-family: var(--font-jetbrains-mono);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.check-out-label {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-smi) var(--padding-8xl) var(--padding-smi)
+    var(--padding-xl);
+  background-color: var(--color-black);
+  flex: 1;
+  border-radius: var(--br-3xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+  max-width: 100%;
+}
+.check-out-label:hover {
+  background-color: var(--color-darkslategray-100);
+}
+.check-out-frame,
+.subtotal-frame,
+.your-cart {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.check-out-frame {
+  width: 491px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-20xl);
+  max-width: 100%;
+}
+.subtotal-frame,
+.your-cart {
+  flex-direction: column;
+  align-items: flex-end;
+}
+.subtotal-frame {
+  width: 1423px;
+  padding: 0 0 0 var(--padding-xl);
+  gap: 72px 0;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-passion-one);
+}
+.your-cart {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  overflow: hidden;
+  padding: var(--padding-8xl) 0 var(--padding-26xl);
+  gap: 16px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1150px) {
+  .frame-container2,
+  .price-frame {
+    flex: 1;
+  }
+  .cart-thumbnail {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .your-cart1 {
+    font-size: var(--font-size-19xl);
+  }
+  .item,
+  .price,
+  .quantity,
+  .total {
+    font-size: var(--font-size-10xl);
+  }
+  .frame-subtotal {
+    flex-wrap: wrap;
+  }
+  .tom-and-jerry2 {
+    font-size: var(--font-size-10xl);
+  }
+  .b,
+  .t-shirt1 {
+    font-size: var(--font-size-7xl);
+  }
+  .coupon-input {
+    font-size: var(--font-size-13xl);
+  }
+  .b1,
+  .convenience-fee,
+  .coupon-code,
+  .div2,
+  .div3,
+  .div4,
+  .grand-total,
+  .subtotal {
+    font-size: var(--font-size-10xl);
+  }
+  .price-frame {
+    padding-top: var(--padding-9xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .coupon-code-frame1 {
+    flex-wrap: wrap;
+    gap: 0 114px;
+  }
+  .cart-item-label {
+    flex-wrap: wrap;
+    gap: 0 52px;
+  }
+  .frame-parent3 {
+    flex-wrap: wrap;
+  }
+  .shipping-info-frame {
+    padding-left: var(--padding-4xl);
+    padding-right: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .frame-parent1 {
+    gap: 56px 0;
+  }
+  .frame-cart {
+    gap: 183px 0;
+  }
+  .subtotal-frame {
+    gap: 72px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .your-cart1 {
+    font-size: var(--font-size-10xl);
+  }
+  .item,
+  .price,
+  .quantity,
+  .total {
+    font-size: var(--font-size-3xl);
+  }
+  .coupon-code-frame1 {
+    gap: 0 114px;
+  }
+  .tom-and-jerry2 {
+    font-size: var(--font-size-3xl);
+  }
+  .t-shirt1 {
+    font-size: var(--font-size-lgi);
+  }
+  .shipping-info {
+    width: 100%;
+    height: 1px;
+  }
+  .estimated-ship-date1 {
+    font-size: var(--font-size-3xl);
+  }
+  .vector-line {
+    margin-left: 0;
+  }
+  .estimated-ship-date-label,
+  .group-frame {
+    flex-wrap: wrap;
+  }
+  .item-name {
+    gap: 33px 0;
+  }
+  .b {
+    font-size: var(--font-size-lgi);
+  }
+  .frame-container2 {
+    min-width: 100%;
+  }
+  .coupon-input {
+    font-size: var(--font-size-5xl);
+  }
+  .subtotal-frame1 {
+    gap: 0 51px;
+  }
+  .b1 {
+    font-size: var(--font-size-3xl);
+  }
+  .frame-line {
+    flex-wrap: wrap;
+  }
+  .div2,
+  .subtotal {
+    font-size: var(--font-size-3xl);
+  }
+  .frame-parent2 {
+    flex-wrap: wrap;
+  }
+  .convenience-fee,
+  .coupon-code,
+  .div3 {
+    font-size: var(--font-size-3xl);
+  }
+  .add-coupon {
+    font-size: var(--font-size-base);
+  }
+  .subtotal-frame2 {
+    flex-wrap: wrap;
+  }
+  .div4,
+  .grand-total {
+    font-size: var(--font-size-3xl);
+  }
+  .total-amount-label {
+    flex-wrap: wrap;
+  }
+  .congrats-youre-eligible-container {
+    font-size: var(--font-size-base);
+  }
+  .truck-icon {
+    flex-wrap: wrap;
+    gap: 0 32px;
+  }
+  .frame-cart {
+    gap: 183px 0;
+  }
+  .price-frame {
+    min-width: 100%;
+  }
+  .subtotal-frame {
+    gap: 72px 0;
+  }
+}
